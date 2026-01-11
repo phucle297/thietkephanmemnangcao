@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Bạch văn Huy",
+	"Ma_so": "NV_11",
+	"CMND": "072352541",
+	"Gioi_tinh": "Nữ",
+	"Dien_thoai": "0929271524",
+	"Dia_chi": "Võ lâm K Quận 9-TP. HCM",
+	"Mail": "bvhuy@spthcmcom",
+	"Ten_Dang_nhap": "NV_11",
+	"Mat_khau": "NV_11",
+	"Muc_luong": 5250000,
+	"Ngay_sinh": "8-11-1980",
+	"Don_vi": {
+		"Ten": "Dịch thuật",
+		"Ma_so": "DV_1",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

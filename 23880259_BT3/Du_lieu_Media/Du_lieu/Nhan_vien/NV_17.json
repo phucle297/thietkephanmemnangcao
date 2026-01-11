@@ -1,0 +1,27 @@
+{
+	"Ho_ten": "Hứa xuân phi Lan",
+	"Ma_so": "NV_17",
+	"CMND": "071012137",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0990697636",
+	"Dia_chi": "Phạm lý J Quận 11-TP. HCM",
+	"Mail": "hxplan@euhhcmvn",
+	"Ten_Dang_nhap": "NV_17",
+	"Mat_khau": "NV_17",
+	"Muc_luong": 9800000,
+	"Ngay_sinh": "16-1-1980",
+	"Don_vi": {
+		"Ten": "Dịch thuật",
+		"Ma_so": "DV_1",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		}
+	]
+}
