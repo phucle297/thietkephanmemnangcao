@@ -18,6 +18,8 @@
           packages = with pkgs; [
             nodejs
             python314
+
+            bun
           ];
         };
       }
