@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Thái thế hiền Thục",
+	"Ma_so": "NV_2",
+	"CMND": "005246710",
+	"Gioi_tinh": "Nam",
+	"Dien_thoai": "0919631495",
+	"Dia_chi": "Đinh thế D Quận 6-TP. HCM",
+	"Mail": "tththục@euhyahoocom",
+	"Ten_Dang_nhap": "NV_2",
+	"Mat_khau": "NV_2",
+	"Muc_luong": 10850000,
+	"Ngay_sinh": "25-12-1970",
+	"Don_vi": {
+		"Ma_so": "DV_2",
+		"Ten": "Đa năng A",
+		"Chi_nhanh": {
+			"Ma_so": "CN_1",
+			"Ten": "Chi nhánh A"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		},
+		{
+			"Ten": "Ý",
+			"Ma_so": "Y"
+		}
+	]
+}

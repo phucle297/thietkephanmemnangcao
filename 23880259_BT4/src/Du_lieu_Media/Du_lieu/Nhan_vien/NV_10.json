@@ -1,0 +1,35 @@
+{
+	"Ho_ten": "Nguyễn nam hảo Tâm",
+	"Ma_so": "NV_10",
+	"CMND": "060891872",
+	"Gioi_tinh": "Khác",
+	"Dien_thoai": "0992950118",
+	"Dia_chi": "Trầm hồng Minh Quận 12-TP. HCM",
+	"Mail": "nnhtâm@alphtkvn",
+	"Ten_Dang_nhap": "NV_10",
+	"Mat_khau": "NV_10",
+	"Muc_luong": 8750000,
+	"Ngay_sinh": "21-1-1973",
+	"Don_vi": {
+		"Ten": "Dịch thuật",
+		"Ma_so": "DV_1",
+		"Chi_nhanh": {
+			"Ten": "Chi nhánh A",
+			"Ma_so": "CN_1"
+		}
+	},
+	"Danh_sach_Ngoai_ngu": [
+		{
+			"Ten": "Anh",
+			"Ma_so": "ANH"
+		},
+		{
+			"Ten": "Pháp",
+			"Ma_so": "PHAP"
+		},
+		{
+			"Ten": "Đức",
+			"Ma_so": "DUC"
+		}
+	]
+}
